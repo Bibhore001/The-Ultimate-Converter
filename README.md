@@ -14,4 +14,4 @@ How to Run
 Ensure you have Python installed on your system.
 
 Clone this repository:
-git clone https://github.com/Bibhore001/The-Ultimate-Converter
+https://github.com/Bibhore001/The-Ultimate-Converter
